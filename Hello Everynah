@@ -1,6 +1,12 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-<script>
-  alert('Hello World')
-</script>
+
+<body>
+
+  <script>
+    alert( "Hello Everynwah" );
+  </script>
+
+</body>
+
 </html>
